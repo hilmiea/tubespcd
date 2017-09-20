@@ -1,0 +1,23 @@
+Nama : Hilmi Eko Arianto
+NIM  : 1301144345
+
+Daftar fungsionalitas yang dikerjakan 
+1. Buka Citra
+2. Grayscale ( ada 2 tipe)
+3. Pergeseran Gambar (Kanan, Kiri, Atas, Bawah)
+4. Zoom (In and Out)
+5. Rotasi (90, 180, 270)
+6. Naik dan Turun Brightness
+7. Perkalian dan Pembagian Brightness
+8. Warping 
+9. Histogram
+10. Konvolusi
+11. Smoothing (Median, Mean, dan Modus Filter)
+12. Image Sharpening
+13. Edge Detection
+14. Segmentasi Threshold
+15. Erosi
+16. Dilasi
+
+NB : Untuk Zoom Out dan Warping ada batasan gambarnya harus memiliki pixel
+     yang seimbang ( cth : 400x400 )
